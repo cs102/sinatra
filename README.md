@@ -9,6 +9,11 @@ I'll see you next week
 ## requirements
 Ruby 1.9.3
 
+to install ruby follow this guide
+http://sabesq.com/rails/install-rails-step-1/
+
 sinatra
+gem install sinatra
 
 haml
+gem install haml
