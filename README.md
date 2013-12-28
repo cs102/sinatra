@@ -1,4 +1,4 @@
-# Simple Sinatra Website  
+## Simple Sinatra Website  
 this is a very simple sinatra site using haml 
 in the next few days I will show you how to make this look pretty using sass
 and finally we will deploy this to heroku.
@@ -12,8 +12,10 @@ Ruby 1.9.3
 to install ruby follow this guide
 http://sabesq.com/rails/install-rails-step-1/
 
-sinatra
+sinatra  
 gem install sinatra
 
-haml
+haml  
 gem install haml
+
+## Next week I will show you how to make this a pretty with sass
